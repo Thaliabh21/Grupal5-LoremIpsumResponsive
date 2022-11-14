@@ -1,0 +1,20 @@
+.fondo-parrafo {
+    background-color: rgb(248, 249, 250);
+}
+
+nav {
+    background-color: grey;
+    color: lightgray;
+
+} 
+
+a {
+    color: grey;
+}
+
+@media (max-width: 576px) {
+    .list-group {
+        display: none;
+    }
+} 
+
